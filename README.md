@@ -1,7 +1,7 @@
 # AWS Week 1: Foundations
 
 ## What I built
-(2-3 sentences: account setup with security guardrails, an EC2 instance, and a static website on S3)
+Account setup with security guardrails, an EC2 instance, and a static website on S3)
 
 ## AWS services used
 - IAM (Identity and Access Management): admin user with MFA (Multi-Factor Authentication), root locked away
